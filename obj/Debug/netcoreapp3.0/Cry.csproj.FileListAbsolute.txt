@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\C#\Cry\bin\Debug\netcoreapp3.0\Cry.exe
+C:\Users\HP\Documents\C#\Cry\bin\Debug\netcoreapp3.0\Cry.deps.json
+C:\Users\HP\Documents\C#\Cry\bin\Debug\netcoreapp3.0\Cry.runtimeconfig.json
+C:\Users\HP\Documents\C#\Cry\bin\Debug\netcoreapp3.0\Cry.runtimeconfig.dev.json
+C:\Users\HP\Documents\C#\Cry\bin\Debug\netcoreapp3.0\Cry.dll
+C:\Users\HP\Documents\C#\Cry\bin\Debug\netcoreapp3.0\Cry.pdb
+C:\Users\HP\Documents\C#\Cry\obj\Debug\netcoreapp3.0\Cry.csprojAssemblyReference.cache
+C:\Users\HP\Documents\C#\Cry\obj\Debug\netcoreapp3.0\Cry.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\C#\Cry\obj\Debug\netcoreapp3.0\Cry.AssemblyInfo.cs
+C:\Users\HP\Documents\C#\Cry\obj\Debug\netcoreapp3.0\Cry.dll
+C:\Users\HP\Documents\C#\Cry\obj\Debug\netcoreapp3.0\Cry.pdb
